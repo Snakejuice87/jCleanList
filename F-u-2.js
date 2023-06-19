@@ -4,7 +4,7 @@
 // @description  Open new tabs for the first 5 results in a search result page.
 // @author       Felipe
 // @match        *
-// @resource     queries https://raw.githubusercontent.com/insightbrowser/augmentations/main/serp_query_selectors.json
+// @resource     queries https://github.com/Snakejuice87/jCleanList/raw/master/search-query-selectors.json
 // @grant        GM.openInTab
 // @grant        GM.registerButton
 // @grant        GM.getResourceText
